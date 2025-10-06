@@ -1,14 +1,4 @@
-ф{
-  "words": [
-    {"word": "apple", "translation": "яблоко"},
-    {"word": "cat", "translation": "кот"},
-    {"word": "dog", "translation": "собака"},
-    {"word": "house", "translation": "дом"},
-    {"word": "book", "translation": "книга"},
-    {"word": "car", "translation": "машина"},
-    {"word": "water", "translation": "вода"},
-    {"word": "sun", "translation": "солнце"},
-    {"word": "friend", "translation": "друг"},
-    {"word": "school", "translation": "школа"}
-  ]
-}
+[
+  { "word": "apple", "translation": "яблоко" },
+  { "word": "house", "translation": "дом" }
+]
