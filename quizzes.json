@@ -3,9 +3,9 @@
     {
       "id": 1,
       "title": "Taka a five",
-      "videoUrl": "https://raw.githubusercontent.com/temwety/wordup-data/refs/heads/main/videos/takeafive.mp4"
+      "videoUrl": "https://raw.githubusercontent.com/temwety/wordup-data/main/videos/takeafive.mp4"
       "question": "Что сказал человек в видео?",
-      "options": ["Привет", "Спасибо", "До свидания", "Извините"],
+      "options": ["Привет", "Спасибо", "До свиfdsa!дания", "Извините"],
       "correctOption": 0
     },
     {
