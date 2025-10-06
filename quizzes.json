@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Animals",
-      "videoUrl": "https://username.github.io/video-quiz-content/videos/animals.mp4",
+      "videoUrl": "https://temwety.github.io/videos/takeafive.mp4"
       "question": "Что сказал человек в видео?",
       "options": ["Привет", "Спасибо", "До свидания", "Извините"],
       "correctOption": 0
