@@ -1,0 +1,9 @@
+{
+  "words": [
+    { "word": "CAT", "translation": "кошка" },
+    { "word": "DOG", "translation": "собака" },
+    { "word": "HOUSE", "translation": "дом" },
+    { "word": "APPLE", "translation": "яблоко" },
+    { "word": "SUN", "translation": "солнце" }
+  ]
+}
