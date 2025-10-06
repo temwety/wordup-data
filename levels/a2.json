@@ -1,1 +1,15 @@
+{
+  "words": [
+    {"word": "travel", "translation": "путешествовать"},
+    {"word": "beautiful", "translation": "красивый"},
+    {"word": "family", "translation": "семья"},
+    {"word": "restaurant", "translation": "ресторан"},
+    {"word": "holiday", "translation": "отпуск"},
+    {"word": "morning", "translation": "утро"},
+    {"word": "weather", "translation": "погода"},
+    {"word": "laugh", "translation": "смеяться"},
+    {"word": "money", "translation": "деньги"},
+    {"word": "music", "translation": "музыка"}
+  ]
+}
 
