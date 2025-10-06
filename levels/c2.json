@@ -1,15 +1,12 @@
-{
-  "words": [
-    {"word": "meticulous", "translation": "тщательный"},
-    {"word": "albeit", "translation": "хотя"},
-    {"word": "contemplate", "translation": "созерцать"},
-    {"word": "predominant", "translation": "преобладающий"},
-    {"word": "intricate", "translation": "замысловатый"},
-    {"word": "epitome", "translation": "воплощение"},
-    {"word": "ubiquitous", "translation": "вездесущий"},
-    {"word": "juxtaposition", "translation": "сопоставление"},
-    {"word": "eloquent", "translation": "красноречивый"},
-    {"word": "scrutinize", "translation": "внимательно изучать"}
-  ]
-}
-
+[
+  { "word": "meticulous", "translation": "тщательный" },
+  { "word": "albeit", "translation": "хотя" },
+  { "word": "contemplate", "translation": "созерцать" },
+  { "word": "predominant", "translation": "преобладающий" },
+  { "word": "intricate", "translation": "замысловатый" },
+  { "word": "epitome", "translation": "воплощение" },
+  { "word": "ubiquitous", "translation": "вездесущий" },
+  { "word": "juxtaposition", "translation": "сопоставление" },
+  { "word": "eloquent", "translation": "красноречивый" },
+  { "word": "scrutinize", "translation": "внимательно изучать" }
+]
