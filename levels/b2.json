@@ -1,1 +1,15 @@
+{
+  "words": [
+    {"word": "achievement", "translation": "достижение"},
+    {"word": "challenge", "translation": "вызов"},
+    {"word": "effort", "translation": "усилие"},
+    {"word": "influence", "translation": "влияние"},
+    {"word": "relationship", "translation": "отношения"},
+    {"word": "environment", "translation": "окружающая среда"},
+    {"word": "opportunity", "translation": "возможность"},
+    {"word": "responsible", "translation": "ответственный"},
+    {"word": "community", "translation": "сообщество"},
+    {"word": "confidence", "translation": "уверенность"}
+  ]
+}
 
