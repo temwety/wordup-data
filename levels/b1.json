@@ -1,1 +1,15 @@
+{
+  "words": [
+    {"word": "advice", "translation": "совет"},
+    {"word": "decision", "translation": "решение"},
+    {"word": "experience", "translation": "опыт"},
+    {"word": "improve", "translation": "улучшать"},
+    {"word": "journey", "translation": "путешествие"},
+    {"word": "confident", "translation": "уверенный"},
+    {"word": "choice", "translation": "выбор"},
+    {"word": "describe", "translation": "описывать"},
+    {"word": "success", "translation": "успех"},
+    {"word": "comfortable", "translation": "удобный"}
+  ]
+}
 
