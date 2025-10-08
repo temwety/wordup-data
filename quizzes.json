@@ -2,6 +2,7 @@
   "levels": [
     {
       "id": 1,
+      "category": "Селебрити",
       "title": "Take a five",
       "videoUrl": "https://temwety.github.io/wordup-data/videos/takeafive.mp4",
       "question": "Что сказал человек в видео?",
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "category": "animals",
       "title": "Sample",
       "videoUrl": "https://rutube.ru/play/embed/7f4ed5ae3256ac74db0dfe443ff82a32/",
       "question": "Какой цвет был на фоне?",
