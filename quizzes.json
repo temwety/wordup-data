@@ -6,8 +6,8 @@
       "title": "Take a five",
       "videoUrl": "https://temwety.github.io/wordup-data/videos/takeafive.mp4",
       "question": "Что имела ввиду Сабрина под выделеной фразой?",
-      "options": ["Отойди", "Отдохни", "Перекуси", "Извини"],
-      "correctOption": 0
+      "options": ["Отойди", "Возьми перерыв", "Перекуси", "Извини"],
+      "correctOption": 1
     },
     {
       "id": 2,
