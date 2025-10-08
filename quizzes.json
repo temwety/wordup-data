@@ -5,8 +5,8 @@
       "category": "Селебрити",
       "title": "Take a five",
       "videoUrl": "https://temwety.github.io/wordup-data/videos/takeafive.mp4",
-      "question": "Что сказал человек в видео?",
-      "options": ["Привет", "Спасибо", "До свидания", "Извините"],
+      "question": "Что имела ввиду Сабрина под выделеной фразой?",
+      "options": ["Отойди", "Отдохни", "Перекуси", "Извини"],
       "correctOption": 0
     },
     {
