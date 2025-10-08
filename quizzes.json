@@ -11,12 +11,12 @@
     },
     {
       "id": 2,
-      "category": "animals",
-      "title": "Sample",
-      "videoUrl": "https://rutube.ru/play/embed/7f4ed5ae3256ac74db0dfe443ff82a32/",
-      "question": "Какой цвет был на фоне?",
-      "options": ["Красный", "Синий", "Зелёный", "Жёлтый"],
-      "correctOption": 1
+      "category": "Селебрити",
+      "title": "Eyeball it",
+      "videoUrl": "https://temwety.github.io/wordup-data/videos/seleb/seleb_eyeballit.mp4",
+      "question": "Что значит выделенная фраза?",
+      "options": ["Отмерить", "Синий", "Сделать на глаз", "Жёлтый"],
+      "correctOption": 2
     }
   ]
 }
