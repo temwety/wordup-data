@@ -17,6 +17,15 @@
       "question": "Что значит выделенная фраза?",
       "options": ["Отмерить", "Синий", "Сделать на глаз", "Жёлтый"],
       "correctOption": 2
+    },
+    {
+      "id": 3,
+      "category": "Фильмы",
+      "title": "Take a five",
+      "videoUrl": "https://temwety.github.io/wordup-data/videos/movie/movie_takeafive.mp4",
+      "question": "Что имела ввиду Сабрина под выделеной фразой?",
+      "options": ["Отойди", "Возьми перерыв", "Перекуси", "Извини"],
+      "correctOption": 1
     }
   ]
 }
